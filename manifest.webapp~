@@ -1,0 +1,14 @@
+﻿{
+	"name":"music world",
+	"description":"music is the world to music lovers",
+	"launch_path":"/index.html",
+	"icons":{
+		"512":"/img/i1.png",
+		"128":"/img/i2.png"
+	},
+	"developer":{
+		"name":"shiva chaitanya gajula",
+		"url":"https://www.facebook.com/gajulashivachaitanya"
+	},
+	"default_locale":"en"
+}
