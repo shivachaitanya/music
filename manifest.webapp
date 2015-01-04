@@ -1,0 +1,14 @@
+{
+	"name":"music world",
+	"description":"music is the world to music lovers",
+	"launch_path":"/index.html",
+	"icons":{
+		"512":"/img/i1.jpeg",
+		"128":"/img/i2.jpeg",
+	},
+	"developer":{
+		"name":"shiva chaitanya gajula"
+		"url":"https://www.facebool.com/shivachaitanyagajula"
+	},
+	"default_locale":"en"
+}
